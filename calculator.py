@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-print('hah')
+
 from sys import argv
 table={}
 try:
